@@ -1,4 +1,4 @@
-Here is a collection of all my projects related to subject of Internet of Things that I 
+Here is a collection of all my projects related to subject of Internet of Things that I did
 as part of coursework of BoltIOT
 Name - Pulkit Bhardwaj
 
