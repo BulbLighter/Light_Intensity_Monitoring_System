@@ -1,6 +1,6 @@
-# Here is a collection of all my projects related to subject of Internet of Things that I
-# as part of coursework of BoltIOT
-# Name - Pulkit Bhardwaj
+Here is a collection of all my projects related to subject of Internet of Things that I 
+as part of coursework of BoltIOT
+Name - Pulkit Bhardwaj
 
 
 Light Intensity Monitoring System:
